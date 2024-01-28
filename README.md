@@ -1,1 +1,1 @@
-# Scripts made to download Dynamic Icons from Google's Image Charts API.
+# Scripts made in PHP to download Dynamic Icons from Google's Image Charts API.
